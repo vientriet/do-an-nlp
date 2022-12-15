@@ -1,2 +1,2 @@
 # Đồ án cuối kỳ môn NLP
-Sentimental analysis for Finance Headlines with Logistic Regression and SVM
+Sentiment Analysis for Finance Headlines of Financial News with Logistic Regression and SVM
